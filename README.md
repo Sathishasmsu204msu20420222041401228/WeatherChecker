@@ -61,7 +61,8 @@ Simply open `index.html` in your browser.
 
 ## **🖼️ Screenshots**
 
-![image](https://github.com/user-attachments/assets/530736a0-6fb6-4e16-aeed-bbf5094b274b)
+![image](https://github.com/user-attachments/assets/734fa5d0-b756-431e-8cce-b918f32d9039)
+
 
 
 ---
